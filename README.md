@@ -1,6 +1,6 @@
-## Toxic Angel Wolfy Creations Website ##
+# Toxic Angel Wolfy Creations Website #
 
-#TODO
+## TODO ##
 **[1]** Update TOS wording<br>
 **[2]** Update TOS Layout<br>
 **[3]** Create Base SFW Gallary page<br>
@@ -11,4 +11,4 @@
 **[8]** Create a crafting page<br>
 **[10]** Find a suitable hosting site<br>
 **[11]** Create domain for site<br>
-#Finished
+## Finished ##
