@@ -1,0 +1,13 @@
+.tos_title{
+    list-style-type: none;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+}
+#secondary_list{
+    list-style-type: disc;
+}
+#tos_main_title{
+    font-weight: bold;
+    font-size: 28px;
+}
